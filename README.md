@@ -14,29 +14,6 @@ Um projeto simples, porém bem estruturado, de um sistema de gerenciamento de ta
 - **Remover Tarefa**: Remove uma tarefa da lista.
 - **Salvar e Carregar Tarefas**: As tarefas são salvas em um arquivo JSON e carregadas ao iniciar o programa.
 
-## Estrutura do Projeto
-
-│
-├── models/
-│ └── task.py # Classe Task (Model)
-│
-├── controllers/
-│ └── task_controller.py # Lógica de controle (Controller)
-│
-├── views/
-│ └── task_view.py # Interface com o usuário (View)
-│
-├── utils/
-│ └── file_handler.py # Manipulação de arquivos JSON
-│
-├── tests/
-│ └── test_task.py # Testes unitários
-│
-├── main.py # Ponto de entrada do programa
-│
-└── requirements.txt # Dependências do projeto
-
-
 ## Como Executar
 
 ### Pré-requisitos
