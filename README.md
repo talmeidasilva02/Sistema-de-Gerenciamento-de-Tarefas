@@ -4,7 +4,7 @@ Sistema de Gerenciamento de Tarefas (To-Do List) com funcionalidades básicas
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-Um projeto simples, porém bem estruturado, de um sistema de gerenciamento de tarefas (To-Do List) desenvolvido em Python. O projeto utiliza técnicas de programação avançadas, como **MVC (Model-View-Controller)**, **type hints**, **testes unitários** e manipulação de arquivos JSON.
+Um projeto simples, sistema de gerenciamento de tarefas (To-Do List) desenvolvido em Python. O projeto utiliza **MVC (Model-View-Controller)**, **type hints**, **testes unitários** e manipulação de arquivos JSON.
 
 ## Funcionalidades
 
